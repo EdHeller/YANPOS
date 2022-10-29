@@ -1,0 +1,7 @@
+run = "bash make.sh"
+
+# .replit
+audio = true
+
+[nix]
+channel = "stable-21_11"
