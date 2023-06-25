@@ -5,7 +5,7 @@ Yet ANother Pet Operating System
 
 The bash script make.sh will compile and run the ~~kernel~~ bootloader (eventually kernel hopefully). 
 
-Now for web as well using js-dos
+Now for web as well using ~~js-dos~~ v86 
 
 TBD.
 Boot into protected mode.
